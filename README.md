@@ -1,23 +1,25 @@
 # DESCARTE DE LIXO ELETRÔNICO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto de Desenvolvimento Web`
 
-`SEMESTRE`
+`1° semestre de 2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
+O objetivo geral desse projeto é a criação de um site onde cidadãos e empresas possam buscar por instituições próximas aos locais onde residem que façam a coleta de lixo eletrônico.
+Na intenção de fomentar o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns e promover a reutilização do produto, destinando para reposição ou troca de algum elemento danificado.
+
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Leonardo de Carvalho Ferreira
+* Julia Barbosa de Aguiar Pacheco
+* Rafael Henrique Pereira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Simone Alves Nogueira
 
 ## Instruções de utilização
 
