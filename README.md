@@ -6,7 +6,6 @@
 
 `1° semestre de 2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 O objetivo geral desse projeto é a criação de um site onde cidadãos e empresas possam buscar por instituições próximas aos locais onde residem que façam a coleta de lixo eletrônico.
 Na intenção de fomentar o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns e promover a reutilização do produto, destinando para reposição ou troca de algum elemento danificado.
