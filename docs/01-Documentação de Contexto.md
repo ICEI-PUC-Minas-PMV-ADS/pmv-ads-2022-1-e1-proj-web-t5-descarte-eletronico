@@ -21,16 +21,16 @@ O objetivo geral desse trabalho é a criação de um site onde cidadãos e empre
 
 Como objetivos específicos, podemos ressaltar: 
  
-* Conectar cidadadãos e empresas com instituições e postos de coletas para descarte do seu lixo eletrônico;
+* Conectar cidadãos e empresas com instituições e postos de coletas para descarte do seu lixo eletrônico;
 * Informar sobre o descarte correto e o que é considerado lixo eletrônico;
-* Possibilitar que as pessoas saibam o desstino dado ao lixo eletrônico descartado;
+* Possibilitar que as pessoas saibam o destino dado ao lixo eletrônico descartado;
 * Ajudar as pessoas a conhecerem quais são as instituições de descarte dos lixos eletrônicos mais próximos de onde elas residem;
 
 
 
 ## Justificativa
 
-Segundo dados já apresentados na introdução do projeto, é necessário que haja o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns poluindo o solo e como consequência produzindo problemas ambientais. Da mesma forma que é necessário que haja um canal onde as pessoas possam ser concientizadas de como fazer esse descarte e de onde encontrar locais em que possam ser feitos.
+Segundo dados já apresentados na introdução do projeto, é necessário que haja o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns poluindo o solo e como consequência produzindo problemas ambientais. Da mesma forma que é necessário que haja um canal onde as pessoas possam ser conscientizadas de como fazer esse descarte e de onde encontrar locais em que possam ser feitos.
 
 ## Público-Alvo
 
