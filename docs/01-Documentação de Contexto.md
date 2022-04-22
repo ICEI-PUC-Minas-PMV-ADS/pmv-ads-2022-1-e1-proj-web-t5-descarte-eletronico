@@ -21,26 +21,19 @@ O objetivo geral desse trabalho é a criação de um site onde cidadãos e empre
 
 Como objetivos específicos, podemos ressaltar: 
  
-◉ Conectar cidadadãos e empresas com instituições e postos de coletas para descarte do seu lixo eletrônico;
-◉ Informar sobre o descarte correto e o que é considerado lixo eletrônico;
-◉ Possibilitar que as pessoas saibam o desstino dado ao lixo eletrônico descartado;
-◉ Ajudar as pessoas a conhecerem quais são as instituições de descarte dos lixos eletrônicos mais próximos de onde elas residem;
+* Conectar cidadadãos e empresas com instituições e postos de coletas para descarte do seu lixo eletrônico;
+* Informar sobre o descarte correto e o que é considerado lixo eletrônico;
+* Possibilitar que as pessoas saibam o desstino dado ao lixo eletrônico descartado;
+* Ajudar as pessoas a conhecerem quais são as instituições de descarte dos lixos eletrônicos mais próximos de onde elas residem;
 
 
 
 ## Justificativa
 
-Segundo dados já apresentados na introdução do projeto, é necessário que haja o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns poluindo o solo e como consequência produzindo problemas ambientais. Da mesma forma que é necessário que haja um canal onde as pessoas possam ser concientizadas
+Segundo dados já apresentados na introdução do projeto, é necessário que haja o descarte responsável de lixos eletrônicos, como forma de prevenir que esses materiais continuem sendo armazenados junto aos lixos comuns poluindo o solo e como consequência produzindo problemas ambientais. Da mesma forma que é necessário que haja um canal onde as pessoas possam ser concientizadas de como fazer esse descarte e de onde encontrar locais em que possam ser feitos.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Toda população pode se beneficiar com um canal de mediação entre usuários e instituições que realizam a logística reversa. Toda via, o foco desse trabalho está na população que consome um grande volume de objetos eletrônicos e já passaram por algumas eras de mudanças tecnológicas, possuindo assim objetos eletrônicos obsoletos, além de corporações, sejam elas de pequeno, médio ou grande porte que possuem lixo eletrônico para ser descartado e instituições que realizam a coleta desses materiais. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, estabeleceu-se como público alvo desta solução homens e mulheres a partir de 18 anos que tem acesso no seu dia a dia a equipamentos eletrônicos como tablets, vídeo games, celulares, computadores, entre outros e que possuem em suas casas eletrônicos que não são mais utilizados pelos mesmos, além de corporações ligadas ou não a tecnologia que produzem com frequência lixos eletrônicos e instituições e pontos de coletas que fazem a logística reversa desses materiais. 
