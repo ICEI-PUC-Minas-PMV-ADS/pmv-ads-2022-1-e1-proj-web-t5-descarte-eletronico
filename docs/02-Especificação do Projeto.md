@@ -5,8 +5,27 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 
-| Imagem gratuita: Tablet, tecnologia, mulher, jovem, faculdade, comunicação  |  Raissa Hamanaka Souza  |
+| ![girl-g1b50628ca_1280](https://user-images.githubusercontent.com/102400680/164765289-36832cb4-c1fc-423c-b365-1744223ef31d.jpg)  |  Raissa Hamanaka Souza  |
 | ------------------- | ------------------- |
+|  Idade: 19 anos     |Aplicativos: <ul><li>Instagram</li><li> Tik tok</li><li> Portal de notícias </li><li>Uber</li><li> Twitter</li><li> Netflix</li></ul>
+| Ocupação: Estudante de administração|  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável.</li></ul>
+|  Frustações: <ul><li>Difucaldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li> falta de informação de como descartar seus eletrônicos obsoletos</li></ul> | Hobbies: <ul><li>Assistir séries; Sair com os amigos</li><li> Atividades ao ar livre</li><li> Acompanhar conteúdos nas redes sociais; </li></ul> |
+
+|![man-g1dd8a75bb_1920](https://user-images.githubusercontent.com/102400680/164766023-ebef9639-f699-4423-823b-ed56bc6220b9.jpg) |  Bruno Rodrigues   |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
+
+|![man-g509f23f47_1280](https://user-images.githubusercontent.com/102400680/164767999-de50c41b-f34e-41fd-8dd9-b000801d7b4d.jpg)|  Pablo Torres
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
+
+| ![recicla](https://user-images.githubusercontent.com/102400680/164766367-c2576e32-e8f6-4ef4-9b1e-ac16f6aaeb7a.png)  |  Amanda Souza
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
@@ -16,64 +35,54 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Raissa Hamanaka   | Quero descartar objetos eletrônicos obsoletos guardados em minha residência de forma consciente e que não causem prejuízos para o planeta.         | Porque esses objetos não são necessários para mim e ocupam espaços na minha residência em que eu gostaria de colocar outras coisas, ao mesmo tempo que não quero descartá-los de qualquer forma, pois me preocupo com o meio ambiente e quero que eles sejam descartados da maneira correta.|
+|Bruno Rodrigues       | Quero que os componentes eletrônicos do meu negócio e residência sejam devidamente reciclados. | Ter certeza de que esse material seja descartado corretamente ou reutilizado futuramente.|
+|Bruno Rodrigues| Facilidade e praticidade no recolhimento de materiais eletrônicos danificados/inutilizáveis.|Poupar o tempo que seria gasto levando um grande volume de material até o ponto de coleta.|
+|Pablo Torres|Quero descartar de forma responsável o material que utilizo dentro da empresa, bem como de clientes que atendo e também encontram dificuldade de encontrar uma forma segura e responsável para descartar e obter retorno/resultado da destinação final do material. | Para contribuir com meio ambiente e/ou proporcionar uma experiência positiva de incentivo a educação e formação profissional, destinando os equipamentos para instituições que realizam trabalho social nesse segmento.  |
+|Amanda Souza| Coletar materiais eletrônicos obsoletos para pessoas físicas e jurídica. |Para dar uma nova destinação através de doação ou desmontagem e reaproveitamento de peças.|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Permitir que o usuário façam cadastro | ALTA | 
+|RF-002| Permitir que empresas coletoras façam cadastro | ALTA | 
+|RF-003| O site deve mostrar os pontos de coletas de lixo eletrônico em BH de acordo com a proximidade do doador e material que deseja reciclar.   | ALTA|
+|RF-004|O site deve permitir algum tipo de contato entre doador e coletor.| ALTA | 
+|RF-005| O site deve permitir que os usuários avaliem e compartilhem experiências com as empresas de coletoras.| MÉDIA | 
+|RF-006| O site deve ter uma aba que informe o que são lixo eletrônicos e quais são os materiais que podem ser reciclados. | MÉDIA | 
+|RF-007| O site deve ter uma aba que informe quais são os materiais que podem ser reciclados. | MÉDIA |
+|RF-008 |O site deve permitir que as empresas coletoras deem um feedback aos usuários do que foi feito dos e-lixo recolhido. | BAIXA | 
+ 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01 |O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA |
+|RNF-02 |O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |ALTA |
+|RNF-03 |O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |MÉDIA |
+|RNF-04 |site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
+ 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01 |O projeto deve ser entregue no final do semestre letivo. |
+|RE-02 |O aplicativo deve ser restringido às tecnologias básicas de Web Frontend. |
+|RE-03 |A equipe não pode subcontratar o desenvolvimento do trabalho. |
+
+ 
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
