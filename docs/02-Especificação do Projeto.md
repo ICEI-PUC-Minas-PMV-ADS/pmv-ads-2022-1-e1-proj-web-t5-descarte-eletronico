@@ -9,7 +9,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 | ------------------- | ------------------- |
 |  Idade: 19 anos     |Aplicativos: <ul><li>Instagram</li><li> Tik tok</li><li> Portal de notícias </li><li>Uber</li><li> Twitter</li><li> Netflix</li></ul>
 | Ocupação: Estudante de administração|  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável.</li></ul>
-|  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li> falta de informação de como descartar seus eletrônicos obsoletos</li></ul> | Hobbies: <ul><li>Assistir séries; Sair com os amigos</li><li> Atividades ao ar livre</li><li> Acompanhar conteúdos nas redes sociais; </li></ul> |
+|  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico;</li><li> Falta de informação sobre como descartar seus eletrônicos obsoletos;</li></ul> | Hobbies: <ul><li>Assistir séries; </li><li>Sair com os amigos</li><li> Atividades ao ar livre</li><li> Acompanhar conteúdos nas redes sociais; </li></ul> |
 
 |![man-g1dd8a75bb_1920](https://user-images.githubusercontent.com/102400680/164766023-ebef9639-f699-4423-823b-ed56bc6220b9.jpg) |  Bruno Rodrigues   |
 | ------------------- | ------------------- |
