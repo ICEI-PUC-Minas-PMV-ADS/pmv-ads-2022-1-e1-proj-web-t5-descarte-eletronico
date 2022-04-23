@@ -13,13 +13,14 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |![man-g1dd8a75bb_1920](https://user-images.githubusercontent.com/102400680/164766023-ebef9639-f699-4423-823b-ed56bc6220b9.jpg) |  Bruno Rodrigues   |
 | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+|  Idade: 68 anos |  Aplicativos:<ul><li>Instagram</li><li> Portal de notícias </li><li>Uber</li><li> Twitter</li><li> Netflix</li></ul> |
+|  Ocupação: Aposentado |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável</li><li> Acompanhar o destino final de seus descartes.<li></ul> |
+|  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico;</li><li> Falta de informação sobre como descartar seus eletrônicos obsoletos;</li><li> Dúvidas de como descartar sem compartilhar informações pessoais</li></ul> | Hobbies: <ul><li>Assistir séries; </li><li>Encontra amigos</li><li> Atividades em ar livre</li><li> Acompanhar as atualidades do mundo digital;</li></ul> |
+  |
 
 |![man-g509f23f47_1280](https://user-images.githubusercontent.com/102400680/164767999-de50c41b-f34e-41fd-8dd9-b000801d7b4d.jpg)|  Pablo Torres
 | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
+|  Idade: 45 anos |  Aplicativos:  |
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
