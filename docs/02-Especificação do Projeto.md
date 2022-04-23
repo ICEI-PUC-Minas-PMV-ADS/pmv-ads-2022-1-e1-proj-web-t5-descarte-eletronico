@@ -7,28 +7,28 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 | ![girl-g1b50628ca_1280](https://user-images.githubusercontent.com/102400680/164765289-36832cb4-c1fc-423c-b365-1744223ef31d.jpg)  |  Raissa Hamanaka Souza  |
 | ------------------- | ------------------- |
-|  Idade: 19 anos     | Aplicativos: <ul><li>Instagram</li><li> Tik tok</li><li> Portal de notícias </li><li>Uber</li><li> Twitter</li><li> Netflix</li></ul> |
-|  Ocupação: Estudante de administração|  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável.</li></ul> |
-|  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico;</li><li> Falta de informação sobre como descartar seus eletrônicos obsoletos;</li></ul> | Hobbies: <ul><li>Assistir séries; </li><li>Sair com os amigos</li><li> Atividades ao ar livre</li><li> Acompanhar conteúdos nas redes sociais; </li></ul> |
+|  Idade: 19 anos     | Aplicativos: <ul><li>Instagram</li><li> Tik tok</li><li> Portal de notícias</li><li>Uber</li><li> Twitter</li><li>Netflix</li></ul> |
+|  Ocupação: Estudante de administração|  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável</li></ul> |
+|  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li> Falta de informação sobre como descartar seus eletrônicos obsoletos</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Sair com os amigos</li><li> Atividades ao ar livre</li><li>Acompanhar conteúdos nas redes sociais</li></ul> |
 
 |![man-g1dd8a75bb_1920](https://user-images.githubusercontent.com/102400680/164766023-ebef9639-f699-4423-823b-ed56bc6220b9.jpg) |  Bruno Rodrigues   |
 | ------------------- | ------------------- |
 |  Idade: 68 anos     |  Aplicativos: <ul><li>Instagram</li><li> Portal de notícias</li><li>Uber</li><li>Twitter</li><li> Netflix</li></ul> |
-|  Ocupação: Aposentado |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Descartar seus objetos de forma sustentável</li><li>Acompanhar o destino final de seus descartes<li></ul> |
+|  Ocupação: Aposentado |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Descartar seus objetos de forma sustentável</li><li>Acompanhar o destino final de seus descartes</li></ul> |
 |  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li>Falta de informação sobre como descartar seus eletrônicos obsoletos</li><li>Dúvidas de como descartar sem compartilhar informações pessoais</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Atividades em ar livre</li><li>Acompanhar as atualidades do mundo digital</li></ul> |
  
 
 |![man-g509f23f47_1280](https://user-images.githubusercontent.com/102400680/164767999-de50c41b-f34e-41fd-8dd9-b000801d7b4d.jpg)|  Pablo Torres
 | ------------------- | ------------------- |
 |  Idade: 45 anos     |  Aplicativos: <ul><li>Instagram</li><li>GitHub</li><li>Portal de notícias</li><li>Uber</li><li>Twitter</li><li>Netflix</li><li>TecMundo</li></ul> |
-|  Ocupação: Gerente de TI | Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Descartar os materiais da empresa de forma sustentável</li><li>Acompanhar o destino final de seus descartes e trabalhar esse resultado com seus clientes<li></ul> |
-|  Frustações: <ul><li>Dificuldade em encontrar instituições de coleta para descarte de lixo eletrônico</li><li>Falta de transparência no trabalho de reciclagem de algumas instituições</li><li>Dificuldade de obter documentação e resultado prático do descarte de materiais em condições de uso<li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Praticar esporte</li><li>Passeio em familia</li></ul> |
+|  Ocupação: Gerente de TI | Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Descartar os materiais da empresa de forma sustentável</li><li>Acompanhar o destino final de seus descartes e trabalhar esse resultado com seus clientes</li></ul> |
+|  Frustações: <ul><li>Dificuldade em encontrar instituições de coleta para descarte de lixo eletrônico</li><li>Falta de transparência no trabalho de reciclagem de algumas instituições</li><li>Dificuldade de obter documentação e resultado prático do descarte de materiais em condições de uso</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Praticar esporte</li><li>Passeio em familia</li></ul> |
 
 | ![recicla](https://user-images.githubusercontent.com/102400680/164766367-c2576e32-e8f6-4ef4-9b1e-ac16f6aaeb7a.png)  |  Amanda Souza
 | ------------------- | ------------------- |
 |  Idade: 30 anos     | Aplicativos: <ul><li>Instagram</li><li>GitHub</li><li>Portal de notícias</li><li>Uber</li><li>Twitter</li><li>Netflix</li><li>TecMundo</li></ul>  |
-|  Ocupação: Coordenadora de operações |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Fomentar a cultura de reciclagem e descarte responsável</li><li>Acompanhar todo o processo de reuso de materiais eletrônicos com destinação final em escolas e cursos livres em comunidades<li></ul> |
-|  Frustações: <ul><li>Dificuldade em encontrar pessoas que precisam descartar eletrônicos</li><li>Falta de volume de descarte para alavancar os resultados</li><li>Dificuldade em comunicação com grandes empresas<li></ul> |  Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Praticar esporte</li><li>Passeio em familia</li></ul> |
+|  Ocupação: Coordenadora de operações |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Fomentar a cultura de reciclagem e descarte responsável</li><li>Acompanhar todo o processo de reuso de materiais eletrônicos com destinação final em escolas e cursos livres em comunidades</li></ul> |
+|  Frustações: <ul><li>Dificuldade em encontrar pessoas que precisam descartar eletrônicos</li><li>Falta de volume de descarte para alavancar os resultados</li><li>Dificuldade em comunicação com grandes empresas</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Praticar esporte</li><li>Passeio em familia</li></ul> |
 
 ## Histórias de Usuários
 
