@@ -1,9 +1,7 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Para a realização do projeto de Descarte de materiais eletrônicos, o grupo utilizou a ferramenta GitHub para fazer o controle de versões, código fonte, documentação e o quadro kanban para a metodologia ágil. A divisão de papéis foi elaborada através do método Scrum, o projeto de interface e wireframes foram produzidas por meio do site MarvelApp e as reuniões do time são feitas pelo Teams e Whatsapp. 
 
 ## Relação de Ambientes de Trabalho 
 
