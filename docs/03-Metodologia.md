@@ -52,7 +52,7 @@ Listas do Kanban:
 * Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
 qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro Kanban do projeto está disponível na URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico/projects?type=beta
+O quadro Kanban do projeto está disponível na URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico/projects/1
 
 ### Ferramentas
 
