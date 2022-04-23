@@ -36,40 +36,30 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
-
+A equipe utilizou o método Scrum para realizar a divisão dos papéis de cada integrante.
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+* Leonardo de Carvalho Ferreira - Desenvolvedor Front-end.
+* Julia Barbosa de Aguiar Pacheco - Product Owner e Desenvolvedora Front-end.
+* Rafael Henrique Pereira - Scrum Master e Desenvolvedor Front-end.
 
 ### Processo
+Para gerenciar as tarefas e entregas do projeto, o grupo utilizou o quadro Kanban – ferramenta presente no GitHub para controlar o fluxo de produção da equipe.
+Listas do Kanban: 
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+* To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+* Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+* Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
+qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Visual Studio Code.
-- Microsoft Teams e Whatsapp.
-- Figma.
+* Visual Studio Code.
+* Microsoft Teams e Whatsapp.
+* Figma.
 
 O Visual Studio Code foi escolhido como o editor de código padrão, pois além de simples, ele é gratuito e possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas são simples, práticas e gratuitas e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos o Figma, por melhor captar as necessidades da nossa solução e se tratar de um website.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
