@@ -48,7 +48,7 @@ Para gerenciar as tarefas e entregas do projeto, o grupo utilizou o quadro Kanba
 Listas do Kanban: 
 
 * To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
-* Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+* In progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 * Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
 qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
