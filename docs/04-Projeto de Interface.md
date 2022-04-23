@@ -4,7 +4,7 @@ Ao elaborarmos as interfaces do sistema consideramos como prioridade a agilidade
 
  
 ## User Flow
-O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo,<a href="https://marvelapp.com/prototype/i4gfj2h/screen/86379180" target="_blank" rel="exetenal">acesse o ambiente MarvelApp do Projeto</a>.
+O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada tela deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo,<a href="https://marvelapp.com/prototype/i4gfj2h/screen/86379180" target="_blank" rel="exetenal">acesse o ambiente MarvelApp do Projeto</a>.
 
 ![Home PAGE](https://user-images.githubusercontent.com/102400680/164876458-bcad0c31-017d-4cd7-ba31-bf06ae6414e6.png)
 
