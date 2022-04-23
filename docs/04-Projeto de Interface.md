@@ -1,6 +1,6 @@
 
 # Projeto de Interface
-Ao elaborarmos as interfaces do sistema consideramos como prioridade a agilidade, responsividade e usabilidade do mesmo. Além de, projetar as interfaces para funcionarem de forma responsivas se adequando a diferentes dispositivos. 
+Ao elaborarmos as interfaces do sistema consideramos como prioridade a agilidade, responsividade e usabilidade do mesmo. Além de, projetar as interfaces para funcionarem de forma responsivas, se adequando a diferentes dispositivos. 
 
  
 ## User Flow
@@ -12,8 +12,8 @@ O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário pel
 
 ## Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 1. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
-    <li> Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e nome do site, ao clicar nesse bloco o usuário será redirecionada para a tela principal;
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, apresentada na Figura 1. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+    <li> Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e nome do site. Ao clicar nesse bloco, o usuário será redirecionada para a tela principal;
    <li> Menu Lateral - Navegação principal do site, pode ser ocultado através do botão de três barras no canto superior esquerdo;
    <li> Rodapé - apresenta os elementos de navegação do menu principal.
 
@@ -22,14 +22,14 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
     
 **Tela - Home-Page**
     
-A tela de home-page mostra em destaque um vídeo educativo sobre o descarte correto de lixos eletrônico, uma mensagem institucional e as principais funcionalidades do site que são as opções de cadastros para usuários e para instituições que realizam a coleta de reciclagem, além de notícias sobre o meio ambiente e o descarte de lixo eletrônico. 
+A tela de home-page mostra em destaque um vídeo educativo sobre o descarte correto de lixos eletrônico, uma mensagem institucional e as principais funcionalidades do site. Sendo elas: as opções de cadastros para usuários, cadostro de instituições que realizam a coleta de reciclagem, além de notícias sobre o meio ambiente e o descarte de lixo eletrônico. 
 Com base na estrutura padrão, o menu lateral e o conteúdo de rodapé mostram os seguintes componentes:
-     <li>Botão de **"login"/"Crie uma conta"** leva o usuário para a tela de login onde ele também terá a possibilidade de criar um login como usuário ou empresa coletara;
-    <li>Componente **"O que é lixo eletrônico?"** que leva ao usuário a uma tela informativa sobre quais materiais são considerados lixos eletrônicos e sua forma correta de descarte;
-    <li>Componente **"Quero descartar meus eletrônicos"/"Encontre uma empresa coletora"** leva ao usuário a tela de login caso ainda não esteja logado, caso esteja o usuário e direcionado  a página de busca por instituições coletoras;
-    <li> Componente **"Sou coletor"** leva ao usuário a tela de login caso ainda não esteja logado, caso esteja, o usuário é direcionado para o perfil de sua instituição coletora;
+     <li>Botão de **"login"/"Crie uma conta"** ,leva o usuário para a tela de login onde ele também terá a possibilidade de criar um login como usuário ou empresa coletara;
+    <li>Componente **"O que é lixo eletrônico?"**, leva ao usuário a uma tela informativa sobre quais materiais são considerados lixos eletrônicos e sua forma correta de descarte;
+    <li>Componente **"Quero descartar meus eletrônicos"/"Encontre uma empresa coletora"**, leva ao usuário a tela de login caso ainda não esteja logado, caso esteja o usuário e direcionado  a página de busca por instituições coletoras;
+    <li> Componente **"Sou coletor"**, leva ao usuário a tela de login caso ainda não esteja logado, caso esteja, o usuário é direcionado para o perfil de sua instituição coletora;
     <li>Componente **"Notícias"** leva o usuário a página de notícias do site;
-    <li>**"Institucional **" direciona o usuário para a página de informações sobre os mantenedores do site;
+    <li> Componente **"Institucional"** direciona o usuário para a página de informações sobre os mantenedores do site;
     <li>Componente **"Fale Conosco"** permite que os usuários enviem mensagens com dúvidas, sugestões ou elogios para a empresa mantenedora do site;
     <li>Componente **"Log out"** permite ao usuário sair de sua conta e retorna para a página inicial;
 
