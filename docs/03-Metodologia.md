@@ -5,6 +5,18 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+## Relação de Ambientes de Trabalho 
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir. 
+
+| Ambiente| Plataforma | Link de acesso  |
+| ------------- |:-----------:| :-----|
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico |
+| Documentos do Projeto      | Microsoft Word      |   https://sgapucminasbr.sharepoint.com/:w:/s/team_sga_2418_2022_1_5012105/EfV7Sm7EbR1Iuqld5MltCR0BVlBexekDPUKevWU6Q-tK7A |
+| Projeto de Interface e Wireframes | MarvelApp  |   https://marvelapp.com/prototype/i4gfj2h/screen/86379180 |
+| Gerenciamento do Projeto | GitHub Project |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico/projects/1 |
+
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
