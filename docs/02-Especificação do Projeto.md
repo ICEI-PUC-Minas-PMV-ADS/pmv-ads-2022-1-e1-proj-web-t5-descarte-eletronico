@@ -26,7 +26,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 | ![recicla](https://user-images.githubusercontent.com/102400680/164766367-c2576e32-e8f6-4ef4-9b1e-ac16f6aaeb7a.png)  |  Amanda Souza
 | ------------------- | ------------------- |
-|  Idade: 30 anos     | Aplicativos: <ul><li>Instagram</li><li>GitHub</li><li>Portal de notícias</li><li>Uber</li><li>Twitter</li><li>Netflix</li><li>TecMundo</li></ul>  |
+|  Idade: 30 anos     | Aplicativos: <ul><li>Instagram</li><li>Portal de notícias</li><li>Uber</li><li>Twitter</li><li>Netflix</li><li>TecMundo</li></ul>  |
 |  Ocupação: Coordenadora de operações |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Fomentar a cultura de reciclagem e descarte responsável</li><li>Acompanhar todo o processo de reuso de materiais eletrônicos com destinação final em escolas e cursos livres em comunidades</li></ul> |
 |  Frustações: <ul><li>Dificuldade em encontrar pessoas que precisam descartar eletrônicos</li><li>Falta de volume de descarte para alavancar os resultados</li><li>Dificuldade em comunicação com grandes empresas</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Praticar esporte</li><li>Passeio em familia</li></ul> |
 
