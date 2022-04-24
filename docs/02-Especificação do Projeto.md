@@ -7,13 +7,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 | ![girl-g1b50628ca_1280](https://user-images.githubusercontent.com/102400680/164765289-36832cb4-c1fc-423c-b365-1744223ef31d.jpg)  |  Raissa Hamanaka Souza  |
 | ------------------- | ------------------- |
-|  Idade: 19 anos     | Aplicativos: <ul><li>Instagram</li><li> Tik tok</li><li> Portal de notícias</li><li>Uber</li><li> Twitter</li><li>Netflix</li></ul> |
+|  Idade: 19 anos     | Aplicativos: <ul><li>Instagram</li><li>Tik tok</li><li> Portal de notícias</li><li>Uber</li><li> Twitter</li><li>Netflix</li></ul> |
 |  Ocupação: Estudante de administração|  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li> descartar seus objetos de forma sustentável</li></ul> |
 |  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li> Falta de informação sobre como descartar seus eletrônicos obsoletos</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Sair com os amigos</li><li> Atividades ao ar livre</li><li>Acompanhar conteúdos nas redes sociais</li></ul> |
 
 |![man-g1dd8a75bb_1920](https://user-images.githubusercontent.com/102400680/164766023-ebef9639-f699-4423-823b-ed56bc6220b9.jpg) |  Bruno Rodrigues   |
 | ------------------- | ------------------- |
-|  Idade: 68 anos     |  Aplicativos: <ul><li>Instagram</li><li> Portal de notícias</li><li>Uber</li><li>Twitter</li><li> Netflix</li></ul> |
+|  Idade: 68 anos     |  Aplicativos: <ul><li>Instagram</li><li>Portal de notícias</li><li>Uber</li><li>Twitter</li><li>Netflix</li></ul> |
 |  Ocupação: Aposentado |  Motivações: <ul><li>Contribuir para a manutenção do meio ambiente</li><li>Descartar seus objetos de forma sustentável</li><li>Acompanhar o destino final de seus descartes</li></ul> |
 |  Frustações: <ul><li>Dificuldade em encontrar locais de coleta para descarte de lixo eletrônico</li><li>Falta de informação sobre como descartar seus eletrônicos obsoletos</li><li>Dúvidas de como descartar sem compartilhar informações pessoais</li></ul> | Hobbies: <ul><li>Assistir séries</li><li>Encontra amigos</li><li>Atividades em ar livre</li><li>Acompanhar as atualidades do mundo digital</li></ul> |
  
@@ -52,14 +52,14 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário façam cadastro | ALTA | 
-|RF-002| Permitir que empresas coletoras façam cadastro | ALTA | 
-|RF-003| O site deve mostrar os pontos de coletas de lixo eletrônico em BH de acordo com a proximidade do doador e material que deseja reciclar.   | ALTA|
+|RF-001|Permitir que o usuário façam cadastro. | ALTA | 
+|RF-002|Permitir que empresas coletoras façam cadastro. | ALTA | 
+|RF-003|O site deve mostrar os pontos de coletas de lixo eletrônico em BH de acordo com a proximidade do doador e material que deseja reciclar. | ALTA|
 |RF-004|O site deve permitir algum tipo de contato entre doador e coletor.| ALTA | 
-|RF-005| O site deve permitir que os usuários avaliem e compartilhem experiências com as empresas de coletoras.| MÉDIA | 
-|RF-006| O site deve ter uma aba que informe o que são lixo eletrônicos e quais são os materiais que podem ser reciclados. | MÉDIA | 
-|RF-007| O site deve ter uma aba que informe quais são os materiais que podem ser reciclados. | MÉDIA |
-|RF-008 |O site deve permitir que as empresas coletoras deem um feedback aos usuários do que foi feito dos e-lixo recolhido. | BAIXA | 
+|RF-005|O site deve permitir que os usuários avaliem e compartilhem experiências com as empresas de coletoras.| MÉDIA | 
+|RF-006|O site deve ter uma aba que informe o que são lixo eletrônicos e quais são os materiais que podem ser reciclados. | MÉDIA | 
+|RF-007|O site deve ter uma aba que informe quais são os materiais que podem ser reciclados. | MÉDIA |
+|RF-008|O site deve permitir que as empresas coletoras deem um feedback aos usuários do que foi feito dos e-lixo recolhido. | BAIXA | 
  
 
 ### Requisitos não Funcionais
