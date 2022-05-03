@@ -1,15 +1,28 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Para a realização do projeto de Descarte de materiais eletrônicos, o grupo utilizou a ferramenta GitHub para fazer o controle de versões, código fonte, documentação e o quadro kanban para a metodologia ágil. A divisão de papéis foi elaborada através do método Scrum, o projeto de interface e wireframes foram produzidas por meio do site MarvelApp e as reuniões do time são feitas pelo Teams e Whatsapp. 
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+## Relação de Ambientes de Trabalho 
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir. 
+
+| Ambiente| Plataforma | Link de acesso  |
+| ------------- |:-----------:| :-----|
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico |
+| Documentos do Projeto      | Microsoft Word      |   https://sgapucminasbr.sharepoint.com/:w:/s/team_sga_2418_2022_1_5012105/EfV7Sm7EbR1Iuqld5MltCR0BVlBexekDPUKevWU6Q-tK7A |
+| Projeto de Interface e Wireframes | MarvelApp  |   https://marvelapp.com/prototype/i4gfj2h/screen/86379180 |
+| Gerenciamento do Projeto | GitHub Project |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-descarte-eletronico/projects/1 |
+
 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
+
+Para gestão do código fonte do projeto desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow.
+As manutenções dos códigos são organizadas em branches.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -26,14 +39,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 A equipe utilizou o método Scrum para realizar a divisão dos papéis de cada integrante.
@@ -60,8 +65,8 @@ As ferramentas empregadas no projeto são:
 
 * Visual Studio Code.
 * Microsoft Teams e Whatsapp.
-* Figma.
+* Marvel App.
 
 O Visual Studio Code foi escolhido como o editor de código padrão, pois além de simples, ele é gratuito e possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas são simples, práticas e gratuitas e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos o Figma, por melhor captar as necessidades da nossa solução e se tratar de um website.
+diagramas utilizamos o Marvel App, por melhor captar as necessidades da nossa solução e se tratar de um website.
