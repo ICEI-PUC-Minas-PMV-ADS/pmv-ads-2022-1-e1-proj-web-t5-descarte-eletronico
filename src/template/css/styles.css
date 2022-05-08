@@ -145,3 +145,21 @@ footer a:hover {
         font-size: 60%;
     }
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:Arial, Helvetica, sans-serif
+  color green;
+  border: none;
+}
+
+input, label {
+    display: block;
+    width: 100%;
+}
+
+input: focus, label:focus {
+    outline: none;
+}
