@@ -72,38 +72,51 @@
 
     <div class="nome-site justify-content-center"><h1 class="titulo">NOME DO SITE</h1><img class="logo" src="https://via.placeholder.com/80" alt="LOGO DO SITE"></div>
 
-    <div id="main-container">
-        <h1>Cadastre-se para acessar o sistema</h1>
-        <form id="register-form">
-            <div class="full-box">
-              <label for="email">E-mail</label>
-              <input type="email" name="email" id="email" placeholder="Digite seu e-mail"> 
+    <div class="form">
+      <form action="#">
+        <div class="form-header">
+            <div class="title">
+              <h1>Cadastro de Empresa Coletora</h1>
             </div>
-            <div class="half-box">
-                <label for="name">Nome</label>
-                <input type="text" name="name" id="name" placeholder="Digite o seu nome"> 
+        </div>
+        <div class="input-group">
+              <div class="input-box">
+                <label for="Nome da Empresa">Nome da Empresa*</label>
+                <input type="text" name="Nome da Empresa" id="Nome da Empresa" placeholder="Digite o Nome da Empresa" required> 
               </div>
-              <div class="half-box">
-                <label for="lastname">Sobrenome</label>
-                <input type="text" name="lastname" id="lastname" placeholder="Digite o seu sobrenome"> 
+              <div class="input-box">
+                <label for="E-mail">E-mail*</label>
+                <input type="E-mail" name="E-mail" id="E-mail" placeholder="Digite o seu E-mail" required> 
               </div>
-              <div class="half-box">
-                <label for="password">Senha</label>
-                <input type="password" name="password" id="password" placeholder="Digite a sua senha"> 
+              <div class="input-box">
+                <label for="Endereço">Endereço*</label>
+                <input type="text" name="Endereço" id="Endereço" placeholder="Digite o Endereço da Empresa" required> 
               </div>
-              <div class="half-box">
-                <label for="passconfirmation">Senha</label>
-                <input type="password" name="passconfirmation" id="passconfirmation" placeholder="Confirme a sua senha"> 
+              <div class="input-box">
+                <label for="CEP">CEP*</label>
+                <input type="number" name="CEP" id="CEP" placeholder="Digite o CEP"> 
               </div>
-              <div class="full-box">
-                <input type="checkbox" name="agreement" id="agreement">
-                <label for="agreement" id="agreement-label">Eu li e aceito os <a href="#">termos de uso</label> 
+              <div class="input-box">
+                <label for="Telefone de Contato">Telefone de Contato*</label>
+                <input type="number" name="Telefone de Contato" id="Telefone de Contato" placeholder="Digite o Telefone de Contato" required> 
               </div>
-             <div class="full-box">
-                 <input type="submit" id="btn-submit" value="Registrar"> 
+              <div class="input-box">
+                <label for="CNPJ">CNPJ*</label>
+                <input type="number" name="CNPJ" id="CNPJ" placeholder="Digite o CNPJ" required> 
               </div>
-              <div 
-        </form>
+              <div class="input-box">
+                <label for="password">Senha*</label>
+                <input type="password" name="password" id="password" placeholder="Digite a sua senha" required> 
+              </div>
+              <div class="input-box">
+                <label for="passconfirmation">Confirmar Senha*</label>
+                <input type="password" name="passconfirmation" id="passconfirmation" placeholder="Confirme sua senha" required> 
+              </div>
+              <div class="login-button">
+                 <button><a href="#">Registrar</a></button> 
+              </div>
+        </div>
+      </form>
     </div>
 
 
