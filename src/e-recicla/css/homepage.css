@@ -1,0 +1,13 @@
+.videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom: 10%;
+    border-radius: 15px;
+}
