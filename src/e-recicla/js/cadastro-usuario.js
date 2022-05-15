@@ -54,6 +54,7 @@ function cadastrarContato(contato) {
     db.data.push(contato);
 
     localStorage.setItem("db_contato", JSON.stringify(db));
+    localStorage.setItem("usuario", JSON.stringify(contato));
 
     carregarDados();
 }
