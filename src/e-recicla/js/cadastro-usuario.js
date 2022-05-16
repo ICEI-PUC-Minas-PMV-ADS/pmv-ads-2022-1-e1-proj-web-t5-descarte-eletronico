@@ -1,12 +1,9 @@
-let db = {};
-
 function init() {
     carregarDados();
 
     $("#botao-salvar").click(function () {
 
         if (!$('#form-contato')[0].checkValidity()) {
-            console.log('form invalido');
             return;
         }
 
@@ -45,25 +42,16 @@ function cadastrarContato(contato) {
 
     contato.id = novoId;
 
-    if (db == null) {
-        db = {
-            data: []
-        };
-    }
-
-    db.data.push(contato);
-
-    localStorage.setItem("db_contato", JSON.stringify(db));
-    localStorage.setItem("usuario", JSON.stringify(contato));
+    cadastraUsuarioDb(contato);
+    salvaUsuarioLogado(contato);
 
     carregarDados();
 }
 
 function carregarDados() {
-    let dbTexto = localStorage.getItem("db_contato");
-    db = JSON.parse(dbTexto);
+    carregaListaUsuarios();
 
-    if (db) {
+    if (db != null) {
         // Remove todas as linhas do corpo da tabela
         $("#table-contatos").html("");
 
