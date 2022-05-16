@@ -1,4 +1,4 @@
-html, * {
+   html, * {
     font-family: 'Nunito', sans-serif;
 }
 html {
@@ -46,7 +46,7 @@ html {
 
 .sidebar {
     display: flex;
-    position: fixed;
+    position: flex;
     top: 0;
     font-size: 15px;
     flex-wrap: nowrap;
@@ -84,7 +84,7 @@ hr {
     text-decoration: none;
     font-size: 16px;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 10px;
     font-weight: bolder;
     transition: all ease-in-out 200ms;
 }
@@ -117,7 +117,7 @@ hr {
     padding-top: 1.5% !important;
     z-index: 0 !important;
     background-color: #82a28459;
-    position: absolute !important;
+    position: flex !important;
     bottom: 0;
     left: 0;
     right: 0;
