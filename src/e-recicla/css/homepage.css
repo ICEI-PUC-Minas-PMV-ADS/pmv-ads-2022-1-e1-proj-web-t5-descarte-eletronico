@@ -1,13 +1,11 @@
-.videos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin-top: 5rem;
-    margin-bottom: 10%;
-    border-radius: 15px;
+.links-em-negrito {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.links-em-negrito:hover {
+    text-decoration: none;
+    color: #198754;
+    font-weight: bold;
 }

@@ -211,3 +211,8 @@ footer a:hover {
         font-size: 60%;
     }
 }
+
+.img-circulares {
+    border-radius: 50%;
+    height: 150px;
+}
