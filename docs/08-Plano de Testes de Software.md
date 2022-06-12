@@ -1,36 +1,5 @@
 # Plano de Testes de Software
 
-# FUNCIONALIDADES ATUAIS
-
-- CONTEÚDO DO SITE E SIDEBAR RESPONSIVOS.
-- CADASTRO DE USUÁRIOS QUE QUEREM DESCARTAR.
-- CADASTRO DE EMPRESA COLETORA.
-- LOGIN FUNCIONAL PARA USUÁRIOS COMUNS E EMPRESAS.
-- RECUPERAR SENHA PARA USUÁRIOS COMUNS E EMPRESAS.
-- BOTÃO DE SAIR(LOGOUT) FUNCIONAL.
-- EDITAR PERFIL **(ENDEREÇO, CEP, TELEFONE, CIDADE)**.
-- ABA NOTÍCIAS COM JANELA MODAL.
-- FILTRAR EMPRESAS POR MATERIAIS.
-
-
-# TO DO
-- ARRUMAR DOCUMENTAÇÃO ETAPA 3 E 4.
-- EDIÇÃO DA PERFIL DA EMPRESA COLETORA.
-- INTEGRAR AS EMPRESAS COLETORAS COM O FILTRO DE EMPRESAS.
-
-# DOING
-- PLANO DE TESTES.
-- TESTES.
-- HOSPEDAR APLICAÇÃO.
-
-# DONE
-- FOTO DE PERFIL PARA USUÁRIOS COMUNS E EMPRESAS.
-- SOU COLETOR DE LIXO ELETRÔNICO => CADASTRAR.
-- MUDAR INSTITUCIONAL PARA QUEM SOMOS.
-- CADASTRO DE NOTÍCIAS FUNCIONAL.
-- UNIFICAR OS CADASTROS E O LOGIN.
-
-
 # PLANOS DE TESTE
 | Caso de teste         	| CT-01 - Cadastro de entidades                                                                                                                                                                                	|
 |-----------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
