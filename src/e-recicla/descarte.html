@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-RECICLA</title>
+    <link rel="shortcut icon" href="imgs/favicon.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body>
+  <button class="botao-nav navbar-toggler sticky-top" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNavbar" aria-expanded="true" aria-controls="collapse">
+    <img class="navbar-toggler-icon" src="imgs/bars.svg">
+  </button>
+  
+  <div class="nav-content">
+    <nav id="collapseNavbar">
+    <div class="d-flex flex-column p-3 bg-dark" style="min-width: max-content;">
+      <ul class="nav nav-pills text-center flex-column mb-auto">
+        <li class="login">
+          <a href="registro.html"><button class="login-btn">ENTRAR</button></a>
+        </li>
+        <hr>
+      <li>
+        <a href="index.html" class="nav-link">
+          O que é lixo eletrônico?
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a href="descarte.html" class="nav-link selected">
+          Quero descartar meus eletrônicos
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a href="cadastro-de-usuario.html" class="nav-link ">
+          Quero me cadastrar como coletor
+
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a href="noticias.html" class="nav-link ">
+          Notícias
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a href="institucional.html" class="nav-link ">
+          Quem somos
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a href="faleconosco.html" class="nav-link ">
+          Fale conosco
+        </a>
+      </li>
+      <hr>
+    </ul>
+        <hr>
+        <div class="nav-link logout">
+          <a href="homepage.html" class="nav align-self-end flex-row mb-auto">Sair <img src="imgs/logout.svg"></a>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <div class="nome-site justify-content-center pt-4 pb-2"><h1 class="titulo text-success" onclick="window.location.href = 'homepage.html';" style="cursor: pointer;">E-RECICLA</h1><img class="logo img-fluid" src="imgs/logo.png" alt="LOGO DO SITE" onclick="window.location.href = 'homepage.html';" style="cursor: pointer;"></div>
+
+    <div class="container" style="margin-bottom: 0;">
+
+      <div class="row justify-content-center">
+      <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+          <form class="pesquisar d-flex">
+            <input class="form-control me-2" type="search" placeholder="Informe o material que deseja descartar" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+          </form>
+        </div>
+      </nav>
+
+      <div class="dropdown">
+        <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          Filtros
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <li><a class="dropdown-item" href="empresas-materiais/material1.html">Material 1</a></li>
+          <li><a class="dropdown-item" href="empresas-materiais/material2.html">Material 2</a></li>
+          <li><a class="dropdown-item" href="empresas-materiais/material3.html">Material 3</a></li>
+          <li><a class="dropdown-item" href="empresas-materiais/material4.html">Material 4</a></li>
+        </ul>
+        <div class="resultados">
+        <h1>Resultados</h1>
+        <div class="empresa">
+          <div class="card">
+            <h5 class="card-header">Empresa 1</h5>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus commodi officia impedit aliquid tenetur animi possimus non modi aut ducimus asperiores recusandae nostrum, praesentium, itaque ab error architecto eius quis!</p>
+            </div>
+          </div>
+          <div class="card">
+            <h5 class="card-header">Empresa 2</h5>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus commodi officia impedit aliquid tenetur animi possimus non modi aut ducimus asperiores recusandae nostrum, praesentium, itaque ab error architecto eius quis!</p>
+            </div>
+          </div>
+          <div class="card">
+            <h5 class="card-header">Empresa 3</h5>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus commodi officia impedit aliquid tenetur animi possimus non modi aut ducimus asperiores recusandae nostrum, praesentium, itaque ab error architecto eius quis!</p>
+            </div>
+          </div>
+      </div>
+      </div>
+      </div>
+    </div>
+    </div>
+
+    
+
+    <footer class="rodape justify-content-center navbar">
+      <ul>
+        <li class="link-footer col"><a href="institucional.html">Quem somos</a></li>
+        <li class="link-footer col"><a href="cadastro-de-usuario.html">Crie uma conta</a></li>
+        <li class="link-footer col"><a href="descarte.html">Encontre uma empresa coletora</a></li>
+        <li class="link-footer col"><a href="noticias.html">Notícias</a></li>
+        <li class="link-footer col"><a href="faleconosco.html">Fale Conosco</a></li>
+        <li class="link-footer col"><a href="index.html">O que é lixo eletrônico</a></li>
+        <li class="link-footer col"><a href="cadastro-empresacoletora.html">Sou uma empresa coletora</a></li>
+        <li class="link-footer col"><a href="homepage.html">Página Inicial</a></li>
+      </ul>
+  </footer>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/8abed3b51a.js" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

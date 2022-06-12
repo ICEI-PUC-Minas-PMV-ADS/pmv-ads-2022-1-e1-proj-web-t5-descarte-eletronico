@@ -1,0 +1,25 @@
+
+.text {
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    padding: 2%;
+    margin-left: 2vw;
+    border-radius: 5%;
+    background-color: #82a28459;
+}
+
+.video {
+    border-radius: 5%;
+}
+
+@media screen and (max-width: 1200px) {
+    .video {
+        width: 100% !important;
+    }	
+
+    .text {
+        width: 90% !important;
+    }
+
+
+}
