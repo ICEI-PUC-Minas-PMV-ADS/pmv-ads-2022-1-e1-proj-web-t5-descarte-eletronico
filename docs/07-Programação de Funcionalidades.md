@@ -1,15 +1,31 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+# FUNCIONALIDADES ATUAIS
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+- CONTEÚDO DO SITE E SIDEBAR RESPONSIVOS.
+- CADASTRO DE USUÁRIOS QUE QUEREM DESCARTAR.
+- CADASTRO DE EMPRESA COLETORA.
+- LOGIN FUNCIONAL PARA USUÁRIOS COMUNS E EMPRESAS.
+- RECUPERAR SENHA PARA USUÁRIOS COMUNS E EMPRESAS.
+- BOTÃO DE SAIR(LOGOUT) FUNCIONAL.
+- EDITAR PERFIL **(ENDEREÇO, CEP, TELEFONE, CIDADE)**.
+- ABA NOTÍCIAS COM JANELA MODAL.
+- FILTRAR EMPRESAS POR MATERIAIS.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+# TO DO
+- ARRUMAR DOCUMENTAÇÃO ETAPA 3 E 4.
+- EDIÇÃO DA PERFIL DA EMPRESA COLETORA.
+- INTEGRAR AS EMPRESAS COLETORAS COM O FILTRO DE EMPRESAS.
+
+# DOING
+- PLANO DE TESTES.
+- TESTES.
+- HOSPEDAR APLICAÇÃO.
+
+# DONE
+- FOTO DE PERFIL PARA USUÁRIOS COMUNS E EMPRESAS.
+- SOU COLETOR DE LIXO ELETRÔNICO => CADASTRAR.
+- MUDAR INSTITUCIONAL PARA QUEM SOMOS.
+- CADASTRO DE NOTÍCIAS FUNCIONAL.
+- UNIFICAR OS CADASTROS E O LOGIN.
