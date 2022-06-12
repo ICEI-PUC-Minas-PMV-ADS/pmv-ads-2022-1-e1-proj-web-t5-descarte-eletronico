@@ -1,11 +1,13 @@
 function init() {
     carregarDados();
 
-    $("#botao-salvar").click(function () {
+    $("#botao-salvar").click(function (event) {
 
         if (!$('#form-contato')[0].checkValidity()) {
             return;
         }
+
+        event.preventDefault();
 
         let campNome = $("#inputNome").val();
         let campEmail = $("#inputEmail").val();
@@ -29,6 +31,7 @@ function init() {
         };
 
         cadastrarContato(contato);
+        window.location.replace("perfil-usuario.html");
     });
 }
 

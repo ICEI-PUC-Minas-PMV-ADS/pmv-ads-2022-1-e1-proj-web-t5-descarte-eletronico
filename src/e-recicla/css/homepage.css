@@ -22,4 +22,14 @@
     }
 
 
+.links-em-negrito {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.links-em-negrito:hover {
+    text-decoration: none;
+    color: #198754;
+    font-weight: bold;
 }

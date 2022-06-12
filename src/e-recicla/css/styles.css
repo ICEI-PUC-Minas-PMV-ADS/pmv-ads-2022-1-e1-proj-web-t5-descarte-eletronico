@@ -211,5 +211,9 @@ footer a:hover {
     .rodape li {
         font-size: 60%;
     }
-    
+}
+
+.img-circulares {
+    border-radius: 50%;
+    height: 150px;
 }
