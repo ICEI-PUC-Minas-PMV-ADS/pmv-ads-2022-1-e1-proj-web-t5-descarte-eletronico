@@ -12,7 +12,12 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 | Objetivo do teste     	| Verificar se o cadastro das entidades está funcionando corretamente.                                                                                                                                         	|
 | Passos                	| 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Clicar no botão ENTRAR localizado na barra de navegação lateral.<br>4) Preencher os dados e selecionar o tipo de usuário.                     	|
 | Critérios de êxito    	| - Mostrar um alerta informando que o registro foi realizado com sucesso.<br>- Redirecionamento para a parte de Login do site.<br>- Deve haver uma chave USUÁRIO ou EMPRESA na parte de LocalStorage do site. 	|
-| Resultado do Teste      |                                                                                                     |
+| Resultado do Teste      | Ao acessar a tela de cadastro por todos os links disponíveis do site (botão entrar no menu lateral e quero me cadastrar no rodapé) verificou-se que o acesso ocorre de forma correta através do botão entrar, mas está com a versão de cadastro desatualizada na parte do rodapé, mas é um erro que pode ser concertado rapidamente apenas alterando o link href no html. Ao preencher o cadastro verificou-se que o formulário cumpre os requisitos salvando os dados para login e ainda verificando se os dados colocados para o cadastro correspondem ao requisitado (input type), todos os critérios descritos na terceira linha da tabela foram ececutados com êxito.           |
+<hr>
+
+![teste1](https://user-images.githubusercontent.com/102400680/173259500-57ac8e29-417e-4818-8a43-3da734b2fc01.png)
+
+Figura 1: Teste 1 Critérios de Êxito
 
 <hr>
 
