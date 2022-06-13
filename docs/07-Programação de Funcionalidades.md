@@ -29,10 +29,22 @@ Instruções de acesso
 
     1. Abra um navegador de Internet e informe a seguinte URL: https://e-recicla.netlify.app/homepage.html
 
+Artefatos da funcionalidade
+
+    • homepage.html
+    • script.js
+    • homepage.css
+    • style.css
+    • icone_noticia.jpg
+
 # Tela de Cadastro
+
 Versão inicial Cadastro usuário Dev. Júlia
+
 Versão inicial Cadastro empresa coletora Dev. Leonardo
+
 Versão final unificada de cadastros Dev. Rafael
+
 Tela que permite que usuários e empresas façãm cadastro.
 ![cadastro](https://user-images.githubusercontent.com/102400680/173257251-58bfc9aa-321c-4e64-9740-851ca122f24d.png)
 
@@ -40,6 +52,18 @@ Instruções de acesso
 
     1. Abra um navegador de Internet e informe a seguinte URL: https://e-recicla.netlify.app/registro.html
 
+Requisitos atendidos
+
+    • RF-01 - 
+    • RF-02 - 
+
+Artefatos da funcionalidade
+
+    • registro.html
+    • script.js
+    • cadastro.js
+    • style.css
+    
 # Tela de Login
 
 Dev. Rafael
@@ -51,6 +75,12 @@ Tela que permite que usuários cadastrados façam login e acessem o perfil de us
 Instruções de acesso
 
     1. Abra um navegador de Internet e informe a seguinte URL: https://e-recicla.netlify.app/entrar.html
+   
+Artefatos da funcionalidade
+
+    • entrar.html
+    • script.js
+    • style.css
 
 # Tela Perfil do usuário
 
@@ -67,7 +97,15 @@ Tela de perfil da empresa coletora que permite alterar dados e inserir informaç
 
 ![ec1](https://user-images.githubusercontent.com/102400680/173257704-d0cec2b2-e0cb-4e45-b585-a4a68f96a214.png)
 
- 
+ Requisitos atendidos
+
+    
+Artefatos da funcionalidade
+
+    • coletor.html
+    • script.js
+    • style.css
+
 # Tela de Fale Conosco
 
 Dev. Júlia
@@ -79,6 +117,13 @@ Instruções de acesso
 
     1. Abra um navegador de Internet e informe a seguinte URL: https://e-recicla.netlify.app/faleconosco.html
 
+Artefatos da funcionalidade
+
+    • faleconosco.html
+    • faleconosco.js
+    • script.js
+    • style.css
+
 # Tela de Busca por empresa Coletora
 
 Dev. Leonardo
@@ -89,3 +134,13 @@ Permite que o usuário encontre o perfil de empresas coletoras de acordo com o m
 Instruções de acesso
 
     1. Abra um navegador de Internet e informe a seguinte URL: https://e-recicla.netlify.app/descarte.html
+
+Requisitos atendidos
+
+    • RF-03
+
+Artefatos da funcionalidade
+
+    • descarte.html
+    • script.js
+    • style.css
