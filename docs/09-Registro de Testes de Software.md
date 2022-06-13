@@ -37,3 +37,51 @@ Figura 2: Teste 2 Critérios de Êxito
 ![t](https://user-images.githubusercontent.com/102400680/173260432-d2d5944e-448d-4fbf-bb29-ab18c19453f0.png)
 
 Figura 2: Teste 2 Email e senha não cadastrados
+<h>
+  
+  | Caso de teste             | CT-03 - Registro de notícias                                                                                                                  | 
+
+|-----------------------    |-------------------------------------------------------------------------------------------------------------------------------------------    | 
+
+| Requisitos associados     | RF-05 - Permitir que usuários específicos façam o cadastro de notícias.                                                                   | 
+
+| Objetivo do teste         | Verificar se o cadastro de notícias está funcionando corretamente.                                                                            | 
+
+| Passos                    | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Acessar /registro-noticias.html<br>4) Informar o título, descrição e data.     | 
+
+| Critérios de êxito        | - Mostrar um alerta informando que o registro da notícia foi realizado com sucesso.<br>- Redirecionamento para a parte de Notícias.           | 
+
+| Resultado dos Testes      | 1- Usuário conseguiu inserir notítia <br>2- Apresentou alerta de notícia cadastrada <br>3- Botão criar notícia, levou o usuário a tela de notícias <br>4- Endereço do site responde a solicitação do usuário                                                                                                                                                                                                                                                                                                                                                           | 
+
+<h> 
+ 
+| Caso de teste             | CT-04 - Visualização completa de notícias                                                                                                                                                                                                 | 
+
+|-----------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   | 
+
+| Requisitos associados     | RF-05 - Permitir que usuários específicos façam o cadastro de notícias.<br>RF-06 - Permitir que os usuários possam ver o corpo das notícias.<br>RF-07 - Permitir que os usuários possam ler a notícia completa pelo modal.    | 
+
+| Objetivo do teste         | Verificar se a leitura das notícias está funcionando corretamente.                                                                                                                                                            | 
+
+| Passos                    | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Clicar no link NOTICIAS localizado na barra de navegação lateral ou rodapé.<br>4) Selecionar notícia e clicar em Ler mais.                                     | 
+
+| Critérios de êxito        | - Mostrar todas as notícias cadastradas anteriormente.<br>- Mostrar um modal para a visualização completa da notícia.                                                                                                         | 
+
+| Resultado dos Testes      | 1- Permitindo Leitura da notícia  <br>2- Carregando a notícia satisfatoriamente <br>3- Modal de visualização completa funcional <br> 4-                                                                                                                                                                                                                                                                                                                                                      | 
+<h> 
+ 
+| Caso de teste             | CT-05 - Edição do perfil de usuário funcional                                                                                                                                                                                                                     | 
+
+|-----------------------    |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
+
+| Requisitos associados     | RF-08 - Permitir que os usuários comuns realizem a edição de seu perfil.<br>                                                                                                                                      | 
+
+| Objetivo do teste         | Verificar se a edição do perfil das entidades está funcionando corretamente.                                                                                                                                                                                  | 
+
+| Passos                    | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Clicar no botão ENTRAR localizado na barra de navegação lateral.<br>4) Clicar no link que redireciona para a parte de login.<br>5) Preencher os dados e selecionar "Quero descartar meus materiais".<br>6) Editar os dados e clicar no botão Editar.   | 
+
+| Critérios de êxito        | - Mostrar um alerta informando que o perfil foi editado com sucesso.<br>- Reload da página com as informações editadas.<br>- Aba de LocalStorage com os dados já inseridos.        
+
+| Resultado dos Testes      | 1- Edição de perfil funcional <br>2- Não gerando alerta  <br>3- Recarregando página com novas informações <br>4- Sem aba da localstorage <br>5- <br>6- <br>7- <br>                                                                                                                                                                                                                                                                                                                                                       |   
+
+<h>             
