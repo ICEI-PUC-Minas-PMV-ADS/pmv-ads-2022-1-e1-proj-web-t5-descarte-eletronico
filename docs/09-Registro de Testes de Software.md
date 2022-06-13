@@ -67,7 +67,7 @@ Figura 2: Teste 2 Email e senha não cadastrados
 
 | Critérios de êxito        | - Mostrar todas as notícias cadastradas anteriormente.<br>- Mostrar um modal para a visualização completa da notícia.                                                                                                         | 
 
-| Resultado dos Testes      | 1- Permitindo Leitura da notícia  <br>2- Carregando a notícia satisfatoriamente <br>3- Modal de visualização completa funcional <br> 4-                                                                                                                                                                                                                                                                                                                                                      | 
+| Resultado dos Testes      | 1- Permitindo Leitura da notícia  <br>2- Carregando a notícia satisfatoriamente <br>3- Modal de visualização completa funcional <br>                                                                                                                                                                                                                                                                                                                                           | 
 <h> 
  
 | Caso de teste             | CT-05 - Edição do perfil de usuário funcional                                                                                                                                                                                                                     | 
@@ -82,6 +82,6 @@ Figura 2: Teste 2 Email e senha não cadastrados
 
 | Critérios de êxito        | - Mostrar um alerta informando que o perfil foi editado com sucesso.<br>- Reload da página com as informações editadas.<br>- Aba de LocalStorage com os dados já inseridos.        
 
-| Resultado dos Testes      | 1- Edição de perfil funcional <br>2- Não gerando alerta  <br>3- Recarregando página com novas informações <br>4- Sem aba da localstorage <br>5- <br>6- <br>7- <br>                                                                                                                                                                                                                                                                                                                                                       |   
+| Resultado dos Testes      | 1- Edição de perfil funcional <br>2- Não gerando alerta  <br>3- Recarregando página com novas informações <br>4- Sem aba da localstorage                                                                                                                                                                                                                                                                                                                                                      |   
 
 <h>             
