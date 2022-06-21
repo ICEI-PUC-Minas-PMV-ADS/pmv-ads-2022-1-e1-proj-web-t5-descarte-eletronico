@@ -2,10 +2,16 @@
 
 const getEmail = () => {
     const email = document.querySelector("#email");
+    const telefone = document.querySelector("#telefone");
+    const cidade = document.querySelector("#cidade");
     const nome = document.querySelector(".nomePerfil");
     const getUser = localStorage.getItem("usuario");
     const verificar = JSON.parse(getUser);
     email.value = verificar.email;
+    telefone.value = verificar.telefone;
+    cidade.value = verificar.cidade;
+
+
     nome.innerHTML = verificar.nome;
   }
   

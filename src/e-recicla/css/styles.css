@@ -4,8 +4,14 @@ html, * {
 html {
     width: 100%;
     max-width: 100%;
+    min-height: 100%;
     overflow-x: hidden;
 }
+
+body {
+    min-height: 100vh !important;
+}
+
 
 
 .botao-nav:focus {
@@ -198,6 +204,15 @@ footer a:hover {
 
 .empresa div {
     margin-bottom: 2vh;
+}
+
+.empresa > .card {
+    transition: ease-in-out 100ms;
+}
+
+.empresa > .card:hover {
+    box-shadow: 0px 2px 0px #5cb85c;
+    cursor: pointer;
 }
 
 

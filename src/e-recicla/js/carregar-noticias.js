@@ -1,5 +1,7 @@
 function carregarNoticias () {
     const dbNoticias = localStorage.getItem('dbNoticias');
+    const logado = localStorage.getItem('empresaLogado');
+
     const noticia = JSON.parse(dbNoticias).noticias;
     
     const container = document.querySelector(".container");
@@ -29,8 +31,11 @@ function carregarNoticias () {
               </div>
             </div>
           </div>
-        </div>`
-    }
+        </div>`;
+      }
+      if(logado === 'true') {
+      container.innerHTML += `<button type="button" class="btn btn-success" onclick="window.location.href = 'registro-noticias.html';">Cadastrar notícia</button>`;
+      }
 
     
 } 

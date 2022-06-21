@@ -17,14 +17,19 @@ const verificarEmpresa = JSON.parse(getEmpresa);
 
 function checkLogin() {
   if(usuarioLogado === 'true'){
-    botaoLogin.innerHTML = `<img src="../imgs/usuarioicon.png" width="75" height="75" alt="img perfil" class="rounded-circle">
-    <h4 class="text-white nome mb-4 mt-2">${verificarUser.nome}</h4>`;
+    botaoLogin.innerHTML = `<a href="perfil.html"> <img src="../imgs/usuarioicon.png" width="75" height="75" alt="img perfil" class="rounded-circle" ></a>
+    <h4 class="text-white nome mb-2 mt-2">${verificarUser.nome}</h4>`;
   }
 
   if(empresaLogado === 'true'){
     botaoLogin.innerHTML = `
-    <img src="../imgs/empresaicon.png" width="75" height="75" alt="img perfil" class="rounded-circle">
-    <h4 class="text-white nome mb-4 mt-2">${verificarEmpresa.empresa}</h4>`;
+    <a href="perfil-empresacoletora.html"> <img src="../imgs/empresaicon.png" width="75" height="75" alt="img perfil" class="rounded-circle"></a>
+    <h4 class="text-white nome mb-2 mt-2">${verificarEmpresa.empresa}</h4>`;
+    const cadastro = document.querySelectorAll("li")[3];
+    cadastro.innerHTML = `<a href="perfil-empresacoletora.html" class="nav-link ">
+    Editar perfil da empresa
+  </a>`;
+
   }
 
 }

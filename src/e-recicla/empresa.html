@@ -77,63 +77,39 @@
 
     <div class="container">
         <div class="d-flex flex-row">
-            <div class="text-center">
+            <div class="text-start">
               <div class="perfil-msg">
               </div>
               <img src="imgs/empresaicon.png" width="150" height="150" alt="img perfil" class="img-fluid rounded-circle">
                 <h1 class="nomePerfil mb-4"></h1>
 
-              <form class="text-start col-12 d-flex flex-row justify-content-center flex-wrap gap-3" onsubmit="setPerfil(event)">
-              <div class="col-10">
-              <label for="email" class="form-label">Email</label>
-              <input type="email" class="form-control" id="email" aria-describedby="emailHelp" name="email" disabled>
+                <div class="checkers">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label" for="flexCheckDefault">
+                    Pilhas/Baterias
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label" for="flexCheckDefault">
+                    Telefones/Celulares
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label" for="flexCheckDefault">
+                    Computadores/Periféricos
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label" for="flexCheckDefault">
+                    Aparelhos eletrônicos domésticos
+                  </label>
+                </div>
             </div>
-            <div class="col-10">
-              <label for="endereco" class="form-label">Endereço</label>
-              <input type="text" class="form-control" id="endereco" name="endereco" placeholder="Rua ABC" minlength="5" maxlength="50">
-            </div>
-            <div class="col-3">
-              <label for="cep" class="form-label">CEP</label>
-              <input type="text" class="form-control" id="cep" name="cep" placeholder="00000-000" minlength="8" maxlength="9">
-            </div>
-            <div class="col-3">
-              <label for="telefone" class="form-label">Telefone</label>
-              <input type="text" class="form-control" id="telefone" name="telefone" placeholder="(31)00000-0000" minlength="10" maxlength="14">
-            </div>
-            <div class="col-3">
-              <label for="cnpj" class="form-label">CNPJ</label>
-              <input type="text" class="form-control" id="cnpj" name="cnpj" placeholder="00.000.000/0000-00" minlength="14" maxlength="18">
-            </div>
-            <div class="checkers">
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="baterias">
-                <label class="form-check-label" for="baterias">
-                  Pilhas/Baterias
-                </label>
-              </div>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="telefones">
-                <label class="form-check-label" for="telefones">
-                  Telefones/Celulares
-                </label>
-              </div>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="computadores">
-                <label class="form-check-label" for="computadores">
-                  Computadores/Periféricos
-                </label>
-              </div>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="domesticos">
-                <label class="form-check-label" for="domesticos">
-                  Eletrodomésticos
-                </label>
-              </div>
           </div>
-            <button type="submit" class="btn btn-secondary btn-lg">Salvar</button>
-          </form>
-
-            </div>
         </div>
     </div>
     </div>

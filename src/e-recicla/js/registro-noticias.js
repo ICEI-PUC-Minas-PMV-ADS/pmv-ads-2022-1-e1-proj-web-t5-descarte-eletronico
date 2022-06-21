@@ -14,6 +14,17 @@ const data_noticias = {
             texto: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem!',
             data: '02/02/2022'
 },
+        {
+            titulo: 'Noticia 3',
+            texto: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem!',
+            data: '03/03/2022'
+
+        },
+        {
+            titulo: 'Noticia 4',
+            texto: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem!',
+            data: '04/04/2022'
+        }
 
 ] 
 };
