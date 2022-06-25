@@ -81,12 +81,17 @@
               <div class="perfil-msg">
               </div>
               <img src="imgs/empresaicon.png" width="150" height="150" alt="img perfil" class="img-fluid rounded-circle">
-                <h1 class="nomePerfil mb-4"></h1>
 
               <form class="text-start col-12 d-flex flex-row justify-content-center flex-wrap gap-3" onsubmit="setPerfil(event)">
+               
+              <div class="col-3">
+                <label for="nome" class="form-label">Nome</label>
+                <input type="text" name="nome" id="nomePerfil" class="form-control ">
+              </div>
+
               <div class="col-10">
               <label for="email" class="form-label">Email</label>
-              <input type="email" class="form-control" id="email" aria-describedby="emailHelp" name="email" disabled>
+              <input type="email" class="form-control" id="email" aria-describedby="emailHelp" name="email" >
             </div>
             <div class="col-10">
               <label for="endereco" class="form-label">Endereço</label>

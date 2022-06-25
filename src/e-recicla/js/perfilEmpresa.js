@@ -5,13 +5,12 @@ const empresas = localStorage.getItem('dbEmpresas');
 const getEmail = () => {
     const email = document.querySelector("#email");
     const telefone = document.querySelector("#telefone");
-    const empresa = document.querySelector(".nomePerfil");
+    const empresa = document.querySelector("#nomePerfil");
     const getUser = localStorage.getItem("empresa");
     const verificar = JSON.parse(getUser);
     email.value = verificar.email;
     telefone.value = verificar.telefone;
-
-    empresa.innerHTML = verificar.empresa;
+    empresa.value = verificar.empresa;
   }
   
   const getPerfil = () => {
@@ -37,7 +36,7 @@ const getEmail = () => {
     const getUser = localStorage.getItem("empresa");
     const verificar = JSON.parse(getUser);
     console.log(verificar);
-    if(verificar.empresa == undefined || verificar.telefone == undefined || verificar.endereco == undefined || verificar.cep == undefined){
+    if(verificar.email == undefined || verificar.empresa == undefined || verificar.telefone == undefined || verificar.endereco == undefined || verificar.cep == undefined){
       return;
     }  else if (verificar.telefone == '' || verificar.endereco == '' || verificar.cep == '' ) {
       return;
@@ -52,6 +51,8 @@ const getEmail = () => {
   const setPerfil = (event) => {
     event.preventDefault();
     const container = document.getElementsByClassName("perfil-msg");
+    const empresa = document.querySelector("#nomePerfil").value;
+    const email = document.querySelector("#email").value;
     const endereco = document.querySelector("#endereco").value;
     const cep = document.querySelector("#cep").value;
     const telefone = document.querySelector("#telefone").value;
@@ -63,8 +64,6 @@ const getEmail = () => {
   
     const getUser = localStorage.getItem("empresa");
     const verificar = JSON.parse(getUser);
-    const empresa = verificar.empresa;
-    const email = verificar.email;
     const senha = verificar.senha;
     
   
@@ -88,16 +87,16 @@ const getEmail = () => {
         materiais.push(" Geladeiras, Televisores, Microondas, etc");
       }
 
-    if (empresa == '' || endereco == '' || cep == '' || telefone == '' || cnpj == '') {
+    if (email == '' || empresa == '' || endereco == '' || cep == '' || telefone == '' || cnpj == '') {
       container[0].innerHTML = `<div class="alert alert-danger" role="alert">
       Preencha todos os campos!
     </div>`;
     } else {
       localStorage.setItem('empresa', JSON.stringify(
         {
-          empresa: empresa,
           email: email,
           senha: senha,
+          empresa: empresa,
           endereco: endereco,
           cep: cep,
           telefone: telefone,

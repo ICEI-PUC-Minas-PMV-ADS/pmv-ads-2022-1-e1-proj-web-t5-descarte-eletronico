@@ -4,15 +4,13 @@ const getEmail = () => {
     const email = document.querySelector("#email");
     const telefone = document.querySelector("#telefone");
     const cidade = document.querySelector("#cidade");
-    const nome = document.querySelector(".nomePerfil");
+    const nome = document.querySelector("#nomePerfil");
     const getUser = localStorage.getItem("usuario");
     const verificar = JSON.parse(getUser);
     email.value = verificar.email;
     telefone.value = verificar.telefone;
     cidade.value = verificar.cidade;
-
-
-    nome.innerHTML = verificar.nome;
+    nome.value = verificar.nome;
   }
   
   const getPerfil = () => {
@@ -53,6 +51,8 @@ const getEmail = () => {
   const setPerfil = (event) => {
     event.preventDefault();
     const container = document.getElementsByClassName("perfil-msg");
+    const nome = document.querySelector("#nomePerfil").value;
+    const email = document.querySelector("#email").value;
     const endereco = document.querySelector("#endereco").value;
     const cep = document.querySelector("#cep").value;
     const telefone = document.querySelector("#telefone").value;
@@ -60,8 +60,6 @@ const getEmail = () => {
   
     const getUser = localStorage.getItem("usuario");
     const verificar = JSON.parse(getUser);
-    const nome = verificar.nome;
-    const email = verificar.email;
     const senha = verificar.senha;
     
   
