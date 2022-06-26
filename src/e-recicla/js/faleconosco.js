@@ -8,7 +8,7 @@ $("#botao-enviar").click(function (event) {
 
     Swal.fire(
         'Mensagem Enviada.',
-        'Mensagem enviada com sucesso',
+        'Em breve entraremos em contato',
         'success'
     ).then(() => {
         limparCampos();
