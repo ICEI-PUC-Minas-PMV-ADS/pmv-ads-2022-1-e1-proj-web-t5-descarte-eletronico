@@ -1,4 +1,3 @@
-
 .text {
     flex-wrap: wrap;
     word-wrap: break-word;
@@ -12,15 +11,22 @@
     border-radius: 5%;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1px) {
     .video {
         width: 100% !important;
-    }	
+    }
 
     .text {
         width: 90% !important;
     }
-
+}
+h2{
+    color: #198754;
+   font-size: 40px;
+}
+p{
+    font-size: 18px;
+}
 
 .links-em-negrito {
     text-decoration: none;
@@ -30,6 +36,6 @@
 
 .links-em-negrito:hover {
     text-decoration: none;
-    color: #198754;
+    color: #198754!important;
     font-weight: bold;
 }
